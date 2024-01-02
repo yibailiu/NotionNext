@@ -10,11 +10,11 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
+  HERO_TITLE_1: '记录日常',
+  HERO_TITLE_2: '与知识共享',
   HERO_TITLE_3: 'YIBAILIU.CN',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HERO_TITLE_4: '壹佰六小站 愿你 2024 新年快乐',
+  HERO_TITLE_5: '充满喜悦和温馨，事业顺风顺水',
   HERO_TITLE_LINK: 'https://www.yibailiu.cn',
 
   // 英雄区显示三个置顶分类
@@ -24,13 +24,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是VincentVon',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '你好！我是壹佰六'
   ],
   INFO_CARD_URL: 'https://github.com/yibailiu', // 个人资料底部按钮链接
 
