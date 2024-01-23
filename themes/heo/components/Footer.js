@@ -13,12 +13,12 @@ const Footer = ({ title }) => {
         >
 
             {/* 颜色过度区 */}
-            <div id='color-transition' className='h-20 bg-gradient-to-b from-[#f7f9fe] to-white  dark:bg-[#1a191d] dark:from-inherit dark:to-inherit'>
+            <div id='color-transition' className='h-15 bg-gradient-to-b from-[#f7f9fe] to-white  dark:bg-[#1a191d] dark:from-inherit dark:to-inherit'>
 
             </div>
 
             {/* 社交按钮 */}
-            <div className='w-full h-15'>
+            <div className='w-full h-10 mt-7'>
                 <SocialButton />
             </div>
 
